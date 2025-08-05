@@ -4,8 +4,8 @@ from selenium.webdriver.chrome.service import Service
 import time
 
 # --- LOGIN DETAILS ---
-username = "abaantemp@gmail.com"
-password = "Abaan123"
+username = "atemp@gmail.com"
+password = "..." #Replace ... with your password
 
 # --- SETUP CHROMEDRIVER ---
 service = Service("chromedriver.exe")  # Make sure chromedriver.exe is in the same folder
